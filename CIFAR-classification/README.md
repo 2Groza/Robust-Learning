@@ -16,6 +16,16 @@ res18 5d51u3结构
 - res: 0.76(no aug )
 
 55133:
-- AEP: 5k 
+- AEP: 5k 0.5528
+- AEP output: 5k 0.5492
+- res: 0.5850
+
+
+猜想是不是因为Resnet太深了,不适用? 或者是这种进步只能体现在使用Autoencoder结构的网络中?打算再试试自己手写的网络,然后就去做其他实验.
+
+- 5k 0.4545
+- AEP 5k :0.4283
+
+放弃classification任务.
 
 
