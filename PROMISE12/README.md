@@ -15,4 +15,7 @@
 - 用Unet+dropout: 0.75
 - Unet+dropout+flo+rflo: 0.823
 - Unet+dropout+flo+rflo+last layer conv = 0.8425
-- Unet+dropout再跑一次:
+- Unet+dropout再跑一次:0.83
+这几个差不多..
+
+然后加上了data-augmentation,出来的AUGnet 训练非常缓慢...
