@@ -19,3 +19,7 @@
 这几个差不多..
 
 然后加上了data-augmentation,出来的AUGnet 训练非常缓慢...
+
+
+- Dilation Does Work. especially with 2222
+- Without Dilation, Flo can make attributes to seg
